@@ -1,0 +1,7 @@
+Faker==26.0.0
+fastapi==0.111.1
+locust==2.29.1
+pydantic==2.8.2
+ray[serve]==2.32.0
+sentence-transformers==3.0.1
+uvicorn==0.30.3
